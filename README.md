@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🔭 I’m currently live in Beijing
 
 <!--
 **liuskate/liuskate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
